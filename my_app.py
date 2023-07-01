@@ -179,9 +179,9 @@ def atts(stock1, stock2, data_inicial, data_final):
     ticker2 = stock2.split('.')[0]
 
     df_stock1 = pd.DataFrame(df_stock1)
-    df_stock1.reset_index(name='Date', inplace=True)
+    df_stock1.reset_index(inplace=True)
     df_stock2 = pd.DataFrame(df_stock2)
-    df_stock2.reset_index(name='Date', inplace=True)
+    df_stock2.reset_index(inplace=True)
 
     df_zscore = pd.merge(df_stock1, df_stock2, on='Date')
     df_zscore.rename(columns={'Adj Close_x':ticker1, 'Adj Close_y':ticker2}, inplace=True)
