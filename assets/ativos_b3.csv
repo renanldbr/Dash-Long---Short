@@ -1,0 +1,548 @@
+﻿Ticker;CÓDIGO;EMPRESA;SETOR ECONÔMICO;SUBSETOR;SEGMENTO
+ASAI3.SA;ASAI;ASSAI;Consumo não Cíclico;Comércio e Distribuição;Alimentos
+VIIA3.SA;VIIA;VIA;Consumo Cíclico;Comércio Varejista;Eletrodomésticos
+MGLU3.SA;MGLU;MAGAZ LUIZA ;Consumo Cíclico;Comércio Varejista;Eletrodomésticos
+PETR4.SA;PETR;PETROBRAS   ;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+PETR3.SA;PETR;PETROBRAS   ;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+HAPV3.SA;HAPV;HAPVIDA;Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos
+BBDC4.SA;BBDC;BRADESCO    ;Financeiro;Intermediários Financeiros;Bancos
+BBDC3.SA;BBDC;BRADESCO    ;Financeiro;Intermediários Financeiros;Bancos
+CVCB3.SA;CVCB;CVC BRASIL;Consumo Cíclico;Viagens e Lazer;Viagens e Turismo
+RAIL3.SA;RAIL;RUMO S.A.;Bens Industriais;Transporte;Transporte Ferroviário
+COGN3.SA;COGN;COGNA ON;Consumo Cíclico;Diversos;Serviços Educacionais
+CIEL3.SA;CIEL;CIELO       ;Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos
+RAIZ4.SA;RAIZ;RAIZEN;Consumo não Cíclico;Agropecuária;Agricultura
+VALE3.SA;VALE;VALE        ;Materiais Básicos;Mineração;Minerais Metálicos
+CPLE6.SA;CPLE;COPEL       ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CPLE3.SA;CPLE;COPEL       ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CPLE5.SA;CPLE;COPEL       ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+EQTL3.SA;EQTL;EQUATORIAL  ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+MRVE3.SA;MRVE;MRV         ;Consumo Cíclico;Construção Civil;Incorporações
+VAMO3.SA;VAMO;VAMOS;Consumo Cíclico;Diversos;Aluguel de carros
+LREN3.SA;LREN;LOJAS RENNER;Consumo Cíclico;Comércio Varejista;Tecidos, Vestuário e Calçados
+CCRO3.SA;CCRO;CCR SA      ;Bens Industriais;Transporte;Exploração de Rodovias
+AMAR3.SA;AMAR;LOJAS MARISA;Consumo Cíclico;Comércio Varejista;Tecidos, Vestuário e Calçados
+ITUB4.SA;ITUB;ITAUUNIBANCO;Financeiro;Intermediários Financeiros;Bancos
+ITUB3.SA;ITUB;ITAUUNIBANCO;Financeiro;Intermediários Financeiros;Bancos
+ABEV3.SA;ABEV;AMBEV S/A;Consumo não Cíclico;Bebidas;Cervejas e Refrigerantes
+JBSS3.SA;JBSS;JBS         ;Consumo não Cíclico;Alimentos Processados;Carnes e Derivados
+CMIG4.SA;CMIG;CEMIG       ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CMIG3.SA;CMIG;CEMIG       ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+BEEF3.SA;BEEF;MINERVA     ;Consumo não Cíclico;Alimentos Processados;Carnes e Derivados
+GOLL4.SA;GOLL;GOL         ;Bens Industriais;Transporte;Linhas Aéreas de Passageiros
+SEQL3.SA;SEQL;SEQUOIA LOG;Bens Industriais;Serviços Diversos;Serviços Diversos
+ITSA4.SA;ITSA;ITAUSA      ;Financeiro;Intermediários Financeiros;Bancos
+ITSA3.SA;ITSA;ITAUSA      ;Financeiro;Intermediários Financeiros;Bancos
+YDUQ3.SA;YDUQ;YDUQS PART;Consumo Cíclico;Diversos;Serviços Educacionais
+AZUL4.SA;AZUL;AZUL;Bens Industriais;Transporte;Linhas Aéreas de Passageiros
+NTCO3.SA;NTCO;GRUPO NATURA      ;Consumo não Cíclico;Produtos de Cuidado Pessoal e de Limpeza;Produtos de Cuidado Pessoal
+VBBR3.SA;VBBR;VIBRA;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+PRIO3.SA;PRIO;PETRORIO;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+ENEV3.SA;ENEV;ENEVA;Utilidade Pública;Energia Elétrica;Energia Elétrica
+OIBR3.SA;OIBR;OI;Comunicações;Telecomunicações;Telecomunicações
+OIBR4.SA;OIBR;OI;Comunicações;Telecomunicações;Telecomunicações
+EMBR3.SA;EMBR;EMBRAER     ;Bens Industriais;Material de Transporte;Material Aeronáutico e de Defesa
+CSAN3.SA;CSAN;COSAN       ;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+MULT3.SA;MULT;MULTIPLAN   ;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+AMER3.SA;AMER;AMERICANAS;Consumo Cíclico;Comércio Varejista;Produtos Diversos
+CBAV3.SA;CBAV;CBA;Materiais Básicos;Mineração;Minerais Metálicos
+CMIN3.SA;CMIN;CSNMINERACAO;Materiais Básicos;Mineração;Minerais Metálicos
+CRFB3.SA;CRFB;CARREFOUR BR;Consumo não Cíclico;Comércio e Distribuição;Alimentos
+ANIM3.SA;ANIM;ANIMA;Consumo Cíclico;Diversos;Serviços Educacionais
+RCSL4.SA;RCSL;RECRUSUL    ;Bens Industriais;Material de Transporte;Material Rodoviário
+RCSL3.SA;RCSL;RECRUSUL    ;Bens Industriais;Material de Transporte;Material Rodoviário
+ONCO3.SA;ONCO;ONCOCLINICAS;Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos
+BRFS3.SA;BRFS;BRF SA   ;Consumo não Cíclico;Alimentos Processados;Carnes e Derivados
+SOMA3.SA;SOMA;GRUPO SOMA;Consumo Cíclico;Comércio Varejista;Tecidos, Vestuário e Calçados
+CEAB3.SA;CEAB;CEA MODAS;Consumo Cíclico;Comércio Varejista;Tecidos, Vestuário e Calçados
+BBAS3.SA;BBAS;BRASIL      ;Financeiro;Intermediários Financeiros;Bancos
+ECOR3.SA;ECOR;ECORODOVIAS ;Bens Industriais;Transporte;Exploração de Rodovias
+MOVI3.SA;MOVI;MOVIDA;Consumo Cíclico;Diversos;Aluguel de carros
+LIGT3.SA;LIGT;LIGHT S/A   ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+SIMH3.SA;SIMH;SIMPAR;Financeiro;Holdings Diversificadas;Holdings Diversificadas
+USIM5.SA;USIM;USIMINAS    ;Materiais Básicos;Siderurgia e Metalurgia;Siderurgia
+USIM3.SA;USIM;USIMINAS    ;Materiais Básicos;Siderurgia e Metalurgia;Siderurgia
+USIM6.SA;USIM;USIMINAS    ;Materiais Básicos;Siderurgia e Metalurgia;Siderurgia
+RENT3.SA;RENT;LOCALIZA    ;Consumo Cíclico;Diversos;Aluguel de carros
+PETZ3.SA;PETZ;PETZ;Consumo Cíclico;Comércio Varejista;Produtos Diversos
+ENBR3.SA;ENBR;ENERGIAS BR ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+ELET3.SA;ELET;ELETROBRAS  ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+ELET6.SA;ELET;ELETROBRAS  ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+ELET5.SA;ELET;ELETROBRAS  ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+MRFG3.SA;MRFG;MARFRIG     ;Consumo não Cíclico;Alimentos Processados;Carnes e Derivados
+IFCM3.SA;IFCM;INFRACOMM;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+RRRP3.SA;RRRP;3R PETROLEUM;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+ALSO3.SA;ALSO;ALIANSCSONAE;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+IRBR3.SA;IRBR;IRBBRASIL RE;Financeiro;Previdência e Seguros;Resseguradoras
+GMAT3.SA;GMAT;GRUPO MATEUS;Consumo não Cíclico;Comércio e Distribuição;Alimentos
+CYRE3.SA;CYRE;CYRELA REALT;Consumo Cíclico;Construção Civil;Incorporações
+AERI3.SA;AERI;AERIS;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+UGPA3.SA;UGPA;ULTRAPAR    ;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+SUZB3.SA;SUZB;SUZANO S.A.;Materiais Básicos;Madeira e Papel;Papel e Celulose
+LJQQ3.SA;LJQQ;QUERO-QUERO;Consumo Cíclico;Comércio Varejista;Produtos Diversos
+BRKM5.SA;BRKM;BRASKEM     ;Materiais Básicos;Químicos;Petroquímicos
+BRKM3.SA;BRKM;BRASKEM     ;Materiais Básicos;Químicos;Petroquímicos
+BRKM6.SA;BRKM;BRASKEM     ;Materiais Básicos;Químicos;Petroquímicos
+LWSA3.SA;LWSA;LOCAWEB;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+WEGE3.SA;WEGE;WEG         ;Bens Industriais;Máquinas e Equipamentos;Motores, Compressores e Outros
+MODL3.SA;MODL;MODALMAIS;Financeiro;Intermediários Financeiros;Bancos
+MODL4.SA;MODL;MODALMAIS;Financeiro;Intermediários Financeiros;Bancos
+POMO4.SA;POMO;MARCOPOLO   ;Bens Industriais;Material de Transporte;Material Rodoviário
+POMO3.SA;POMO;MARCOPOLO   ;Bens Industriais;Material de Transporte;Material Rodoviário
+ALPA4.SA;ALPA;ALPARGATAS  ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Calçados
+ALPA3.SA;ALPA;ALPARGATAS  ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Calçados
+CPFE3.SA;CPFE;CPFL ENERGIA;Utilidade Pública;Energia Elétrica;Energia Elétrica
+SLCE3.SA;SLCE;SLC AGRICOLA;Consumo não Cíclico;Agropecuária;Agricultura
+GGBR4.SA;GGBR;GERDAU      ;Materiais Básicos;Siderurgia e Metalurgia;Siderurgia
+GGBR3.SA;GGBR;GERDAU      ;Materiais Básicos;Siderurgia e Metalurgia;Siderurgia
+RDOR3.SA;RDOR;REDE D OR;Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos
+CSNA3.SA;CSNA;SID NACIONAL;Materiais Básicos;Siderurgia e Metalurgia;Siderurgia
+JHSF3.SA;JHSF;JHSF PART   ;Consumo Cíclico;Construção Civil;Incorporações
+QUAL3.SA;QUAL;QUALICORP   ;Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos
+TIMS3.SA;TIMS;TIM;Comunicações;Telecomunicações;Telecomunicações
+NEOE3.SA;NEOE;NEOENERGIA  ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+HBSA3.SA;HBSA;HIDROVIAS;Bens Industriais;Transporte;Transporte Hidroviário
+RADL3.SA;RADL;RAIADROGASIL    ;Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos
+GOAU4.SA;GOAU;GERDAU MET  ;Materiais Básicos;Siderurgia e Metalurgia;Siderurgia
+GOAU3.SA;GOAU;GERDAU MET  ;Materiais Básicos;Siderurgia e Metalurgia;Siderurgia
+FLRY3.SA;FLRY;FLEURY      ;Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos
+TOTS3.SA;TOTS;TOTVS       ;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+BBSE3.SA;BBSE;BBSEGURIDADE;Financeiro;Previdência e Seguros;Seguradoras
+TRAD3.SA;TRAD;TC;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+WEST3.SA;WEST;WESTWING;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+SMFT3.SA;SMFT;SMART FIT;Consumo Cíclico;Viagens e Lazer;Atividades Esportivas
+CASH3.SA;CASH;MELIUZ;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+NGRD3.SA;NGRD;NEOGRID;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+GFSA3.SA;GFSA;GAFISA      ;Consumo Cíclico;Construção Civil;Incorporações
+GUAR3.SA;GUAR;GUARARAPES  ;Consumo Cíclico;Comércio Varejista;Tecidos, Vestuário e Calçados
+STBP3.SA;STBP;SANTOS BRP  ;Bens Industriais;Transporte;Serviços de Apoio e Armazenagem
+BPAN4.SA;BPAN;BANCO PAN;Financeiro;Intermediários Financeiros;Bancos
+AZEV4.SA;AZEV;AZEVEDO     ;Bens Industriais;Construção e Engenharia;Construção Pesada
+AZEV3.SA;AZEV;AZEVEDO     ;Bens Industriais;Construção e Engenharia;Construção Pesada
+HYPE3.SA;HYPE;HYPERA;Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos
+ARZZ3.SA;ARZZ;AREZZO CO   ;Consumo Cíclico;Comércio Varejista;Tecidos, Vestuário e Calçados
+TRPL4.SA;TRPL;TRAN PAULIST;Utilidade Pública;Energia Elétrica;Energia Elétrica
+TRPL3.SA;TRPL;TRAN PAULIST;Utilidade Pública;Energia Elétrica;Energia Elétrica
+SBFG3.SA;SBFG;GRUPO SBF;Consumo Cíclico;Comércio Varejista;Produtos Diversos
+MBLY3.SA;MBLY;MOBLY;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+CURY3.SA;CURY;CURY S/A;Consumo Cíclico;Construção Civil;Incorporações
+BRAP4.SA;BRAP;BRADESPAR   ;Materiais Básicos;Mineração;Minerais Metálicos
+BRAP3.SA;BRAP;BRADESPAR   ;Materiais Básicos;Mineração;Minerais Metálicos
+SEER3.SA;SEER;SER EDUCA;Consumo Cíclico;Diversos;Serviços Educacionais
+CXSE3.SA;CXSE;CAIXA SEGURI;Financeiro;Previdência e Seguros;Seguradoras
+POSI3.SA;POSI;POSITIVO TEC;Tecnologia da Informação;Computadores e Equipamentos;Computadores e Equipamentos
+MEAL3.SA;MEAL;IMC S/A;Consumo Cíclico;Hoteis e Restaurantes;Restaurante e Similares
+SMTO3.SA;SMTO;SAO MARTINHO;Consumo não Cíclico;Alimentos Processados;Açucar e Alcool
+AESB3.SA;AESB;AES BRASIL;Utilidade Pública;Energia Elétrica;Energia Elétrica
+ESPA3.SA;ESPA;ESPACOLASER;Consumo Cíclico;Comércio Varejista;Produtos Diversos
+RECV3.SA;RECV;PETRORECSA ;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+SAPR4.SA;SAPR;SANEPAR     ;Utilidade Pública;Água e Saneamento;Água e Saneamento
+SAPR3.SA;SAPR;SANEPAR     ;Utilidade Pública;Água e Saneamento;Água e Saneamento
+DXCO3.SA;DXCO;DEXCO;Materiais Básicos;Madeira e Papel;Madeira
+BRSR6.SA;BRSR;BANRISUL    ;Financeiro;Intermediários Financeiros;Bancos
+BRSR3.SA;BRSR;BANRISUL    ;Financeiro;Intermediários Financeiros;Bancos
+BRSR5.SA;BRSR;BANRISUL    ;Financeiro;Intermediários Financeiros;Bancos
+TEND3.SA;TEND;TENDA;Consumo Cíclico;Construção Civil;Incorporações
+EVEN3.SA;EVEN;EVEN        ;Consumo Cíclico;Construção Civil;Incorporações
+KEPL3.SA;KEPL;KEPLER WEBER;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+ODPV3.SA;ODPV;ODONTOPREV  ;Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos
+CSMG3.SA;CSMG;COPASA      ;Utilidade Pública;Água e Saneamento;Água e Saneamento
+DIRR3.SA;DIRR;DIRECIONAL  ;Consumo Cíclico;Construção Civil;Incorporações
+EZTC3.SA;EZTC;EZTEC       ;Consumo Cíclico;Construção Civil;Incorporações
+MLAS3.SA;MLAS;MULTILASER;Tecnologia da Informação;Computadores e Equipamentos;Computadores e Equipamentos
+KLBN4.SA;KLBN;KLABIN S/A  ;Materiais Básicos;Madeira e Papel;Papel e Celulose
+KLBN3.SA;KLBN;KLABIN S/A  ;Materiais Básicos;Madeira e Papel;Papel e Celulose
+SBSP3.SA;SBSP;SABESP      ;Utilidade Pública;Água e Saneamento;Água e Saneamento
+GGPS3.SA;GGPS;GPS;Bens Industriais;Serviços Diversos;Serviços Diversos
+ZAMP3.SA;ZAMP;ZAMP S.A.;Consumo Cíclico;Hoteis e Restaurantes;Restaurante e Similares
+KRSA3.SA;KRSA;KORA SAUDE;Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos
+ATMP3.SA;ATMP;ATMASA;Bens Industriais;Serviços Diversos;Serviços Diversos
+GRND3.SA;GRND;GRENDENE    ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Calçados
+SLED4.SA;SLED;SARAIVA LIVR;Consumo Cíclico;Comércio Varejista;Produtos Diversos
+SLED3.SA;SLED;SARAIVA LIVR;Consumo Cíclico;Comércio Varejista;Produtos Diversos
+EGIE3.SA;EGIE;ENGIE BRASIL;Utilidade Pública;Energia Elétrica;Energia Elétrica
+RAPT4.SA;RAPT;RANDON PART ;Bens Industriais;Material de Transporte;Material Rodoviário
+RAPT3.SA;RAPT;RANDON PART ;Bens Industriais;Material de Transporte;Material Rodoviário
+MDIA3.SA;MDIA;M.DIASBRANCO;Consumo não Cíclico;Alimentos Processados;Alimentos Diversos
+BMGB4.SA;BMGB;BANCO BMG;Financeiro;Intermediários Financeiros;Bancos
+VIVT3.SA;VIVT;TELEF BRASIL;Comunicações;Telecomunicações;Telecomunicações
+MYPK3.SA;MYPK;IOCHP-MAXION;Consumo Cíclico;Automóveis e Motocicletas;Automóveis e Motocicletas
+INTB3.SA;INTB;INTELBRAS;Tecnologia da Informação;Computadores e Equipamentos;Computadores e Equipamentos
+ENJU3.SA;ENJU;ENJOEI;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+ENAT3.SA;ENAT;ENAUTA PART;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+TRIS3.SA;TRIS;TRISUL      ;Consumo Cíclico;Construção Civil;Incorporações
+PCAR3.SA;PCAR;P.ACUCAR-CBD;Consumo não Cíclico;Comércio e Distribuição;Alimentos
+RANI3.SA;RANI;IRANI ;Materiais Básicos;Embalagens;Embalagens
+PLPL3.SA;PLPL;PLANOEPLANO;Consumo Cíclico;Construção Civil;Incorporações
+BRIT3.SA;BRIT;BRISANET;Comunicações;Telecomunicações;Telecomunicações
+HBRE3.SA;HBRE;HBR REALTY;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+AMBP3.SA;AMBP;AMBIPAR;Utilidade Pública;Água e Saneamento;Água e Saneamento
+PSSA3.SA;PSSA;PORTO SEGURO;Financeiro;Previdência e Seguros;Seguradoras
+VIVA3.SA;VIVA;VIVARA S.A.;Consumo Cíclico;Tecidos, Vestuário e Calçados;Acessórios
+PTBL3.SA;PTBL;PORTOBELLO  ;Bens Industriais;Construção e Engenharia;Produtos para Construção
+TASA4.SA;TASA;TAURUS ARMAS;Bens Industriais;Máquinas e Equipamentos;Armas e Munições
+TASA3.SA;TASA;TAURUS ARMAS;Bens Industriais;Máquinas e Equipamentos;Armas e Munições
+AGRO3.SA;AGRO;BRASILAGRO  ;Consumo não Cíclico;Agropecuária;Agricultura
+BOAS3.SA;BOAS;BOA VISTA;Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos
+CAML3.SA;CAML;CAMIL;Consumo não Cíclico;Alimentos Processados;Alimentos Diversos
+PGMN3.SA;PGMN;PAGUE MENOS;Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos
+DOTZ3.SA;DOTZ;DOTZ SA;Consumo Cíclico;Diversos;Programas de Fidelização
+TUPY3.SA;TUPY;TUPY        ;Bens Industriais;Material de Transporte;Material Rodoviário
+TTEN3.SA;TTEN;3TENTOS;Consumo não Cíclico;Agropecuária;Agricultura
+ABCB4.SA;ABCB;ABC BRASIL  ;Financeiro;Intermediários Financeiros;Bancos
+AALR3.SA;AALR;ALLIAR;Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos
+SQIA3.SA;SQIA;SINQIA;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+MILS3.SA;MILS;MILLS       ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+HBOR3.SA;HBOR;HELBOR      ;Consumo Cíclico;Construção Civil;Incorporações
+DASA3.SA;DASA;DASA        ;Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos
+VLID3.SA;VLID;VALID       ;Bens Industriais;Serviços Diversos;Serviços Diversos
+VIVR3.SA;VIVR;VIVER       ;Consumo Cíclico;Construção Civil;Incorporações
+MATD3.SA;MATD;MATER DEI;Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos
+PRNR3.SA;PRNR;PRINER;Bens Industriais;Serviços Diversos;Serviços Diversos
+RNEW4.SA;RNEW;RENOVA      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+RNEW3.SA;RNEW;RENOVA      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+SHUL4.SA;SHUL;SCHULZ      ;Bens Industriais;Máquinas e Equipamentos;Motores, Compressores e Outros
+SHUL3.SA;SHUL;SCHULZ      ;Bens Industriais;Máquinas e Equipamentos;Motores, Compressores e Outros
+CSED3.SA;CSED;CRUZEIRO EDU;Consumo Cíclico;Diversos;Serviços Educacionais
+JALL3.SA;JALL;JALLESMACHAD;Consumo não Cíclico;Alimentos Processados;Açucar e Alcool
+LUPA3.SA;LUPA;LUPATECH    ;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Equipamentos e Serviços
+WIZC3.SA;WIZC;WIZ CO;Financeiro;Previdência e Seguros;Corretoras de Seguros e Resseguros
+TECN3.SA;TECN;TECHNOS     ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Acessórios
+BMOB3.SA;BMOB;BEMOBI TECH;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+PNVL3.SA;PNVL;DIMED       ;Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos
+PNVL4.SA;PNVL;DIMED       ;Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos
+MTRE3.SA;MTRE;MITRE REALTY;Consumo Cíclico;Construção Civil;Incorporações
+PORT3.SA;PORT;WILSON SONS ;Bens Industriais;Transporte;Serviços de Apoio e Armazenagem
+LAVV3.SA;LAVV;LAVVI;Consumo Cíclico;Construção Civil;Incorporações
+ORVR3.SA;ORVR;ORIZON;Utilidade Pública;Água e Saneamento;Água e Saneamento
+SOJA3.SA;SOJA;BOA SAFRA;Consumo não Cíclico;Agropecuária;Agricultura
+OPCT3.SA;OPCT;OCEANPACT;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Equipamentos e Serviços
+MDNE3.SA;MDNE;MOURA DUBEUX;Consumo Cíclico;Construção Civil;Incorporações
+CLSA3.SA;CLSA;CLEARSALE;Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos
+PINE4.SA;PINE;PINE        ;Financeiro;Intermediários Financeiros;Bancos
+LEVE3.SA;LEVE;METAL LEVE  ;Consumo Cíclico;Automóveis e Motocicletas;Automóveis e Motocicletas
+ARML3.SA;ARML;ARMAC;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+VULC3.SA;VULC;VULCABRAS   ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Calçados
+JSLG3.SA;JSLG;JSL         ;Bens Industriais;Transporte;Transporte Rodoviário
+FESA4.SA;FESA;FERBASA     ;Materiais Básicos;Siderurgia e Metalurgia;Siderurgia
+FESA3.SA;FESA;FERBASA     ;Materiais Básicos;Siderurgia e Metalurgia;Siderurgia
+ROMI3.SA;ROMI;ROMI   ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+BLAU3.SA;BLAU;BLAU;Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos
+ETER3.SA;ETER;ETERNIT     ;Bens Industriais;Construção e Engenharia;Produtos para Construção
+ALPK3.SA;ALPK;ESTAPAR;Bens Industriais;Serviços Diversos;Serviços Diversos
+FRAS3.SA;FRAS;FRAS-LE     ;Bens Industriais;Material de Transporte;Material Rodoviário
+LOGG3.SA;LOGG;LOG COM PROP;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+TAEE4.SA;TAEE;TAESA       ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+TAEE3.SA;TAEE;TAESA       ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+VVEO3.SA;VVEO;VIVEO;Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos
+SGPS3.SA;SGPS;SPRINGS     ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+SHOW3.SA;SHOW;TIME FOR FUN;Consumo Cíclico;Viagens e Lazer;Produção de Eventos e Shows
+TFCO4.SA;TFCO;TRACK FIELD;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+INEP3.SA;INEP;INEPAR      ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+INEP4.SA;INEP;INEPAR      ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+LPSB3.SA;LPSB;LOPES BRASIL;Financeiro;Exploração de Imóveis;Intermediação Imobiliária
+TPIS3.SA;TPIS;TRIUNFO PART;Bens Industriais;Transporte;Exploração de Rodovias
+UNIP6.SA;UNIP;UNIPAR      ;Materiais Básicos;Químicos;Químicos Diversos
+UNIP3.SA;UNIP;UNIPAR      ;Materiais Básicos;Químicos;Químicos Diversos
+UNIP5.SA;UNIP;UNIPAR      ;Materiais Básicos;Químicos;Químicos Diversos
+SYNE3.SA;SYNE;SYN PROP TEC;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+FIQE3.SA;FIQE;UNIFIQUE;Comunicações;Telecomunicações;Telecomunicações
+HAGA4.SA;HAGA;HAGA S/A    ;Bens Industriais;Construção e Engenharia;Produtos para Construção
+HAGA3.SA;HAGA;HAGA S/A    ;Bens Industriais;Construção e Engenharia;Produtos para Construção
+FHER3.SA;FHER;FER HERINGER;Materiais Básicos;Químicos;Fertilizantes e Defensivos
+FRTA3.SA;FRTA;POMIFRUTAS;Consumo não Cíclico;Agropecuária;Agricultura
+LOGN3.SA;LOGN;LOG-IN      ;Bens Industriais;Transporte;Transporte Hidroviário
+IGTI3.SA;IGTI;IGUATEMI S.A;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+IGTI3.SA;IGTI;IGUATEMI S.A;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+IGTI4.SA;IGTI;IGUATEMI S.A;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+IGTI4.SA;IGTI;IGUATEMI S.A;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+MELK3.SA;MELK;MELNICK;Consumo Cíclico;Construção Civil;Incorporações
+TGMA3.SA;TGMA;TEGMA       ;Bens Industriais;Transporte;Transporte Rodoviário
+AGXY3.SA;AGXY;AGROGALAXY;Consumo não Cíclico;Agropecuária;Agricultura
+PDTC3.SA;PDTC;PADTEC;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+SANB3.SA;SANB;SANTANDER BR;Financeiro;Intermediários Financeiros;Bancos
+SANB4.SA;SANB;SANTANDER BR;Financeiro;Intermediários Financeiros;Bancos
+PDGR3.SA;PDGR;PDG REALT   ;Consumo Cíclico;Construção Civil;Incorporações
+TCSA3.SA;TCSA;TECNISA     ;Consumo Cíclico;Construção Civil;Incorporações
+VITT3.SA;VITT;VITTIA;Materiais Básicos;Químicos;Fertilizantes e Defensivos
+RPMG3.SA;RPMG;PET MANGUINH;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição
+OSXB3.SA;OSXB;OSX BRASIL  ;Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Equipamentos e Serviços
+PFRM3.SA;PFRM;PROFARMA    ;Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos
+CSUD3.SA;CSUD;CSU DIGITAL;Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos
+JFEN3.SA;JFEN;JOAO FORTES ;Consumo Cíclico;Construção Civil;Incorporações
+RSID3.SA;RSID;ROSSI RESID ;Consumo Cíclico;Construção Civil;Incorporações
+NINJ3.SA;NINJ;GETNINJAS;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+BRPR3.SA;BRPR;BR PROPERT  ;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+EUCA4.SA;EUCA;EUCATEX     ;Materiais Básicos;Madeira e Papel;Madeira
+EUCA3.SA;EUCA;EUCATEX     ;Materiais Básicos;Madeira e Papel;Madeira
+DEXP3.SA;DEXP;DEXXOS PAR;Materiais Básicos;Químicos;Petroquímicos
+DEXP4.SA;DEXP;DEXXOS PAR;Materiais Básicos;Químicos;Petroquímicos
+CTSA4.SA;CTSA;SANTANENSE  ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+CTSA3.SA;CTSA;SANTANENSE  ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+CTSA8.SA;CTSA;SANTANENSE  ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+ALUP3.SA;ALUP;ALUPAR;Utilidade Pública;Energia Elétrica;Energia Elétrica
+ALUP4.SA;ALUP;ALUPAR;Utilidade Pública;Energia Elétrica;Energia Elétrica
+BEES3.SA;BEES;BANESTES    ;Financeiro;Intermediários Financeiros;Bancos
+BEES4.SA;BEES;BANESTES    ;Financeiro;Intermediários Financeiros;Bancos
+ENGI4.SA;ENGI;ENERGISA    ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+ENGI3.SA;ENGI;ENERGISA    ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+ALLD3.SA;ALLD;ALLIED;Consumo Cíclico;Comércio Varejista;Eletrodomésticos
+LVTC3.SA;LVTC;WDC NETWORKS;Tecnologia da Informação;Programas e Serviços;Programas e Serviços
+CAMB3.SA;CAMB;CAMBUCI     ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Calçados
+UCAS3.SA;UCAS;UNICASA;Consumo Cíclico;Utilidades Domésticas;Móveis
+PMAM3.SA;PMAM;PARANAPANEMA;Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Cobre
+EQPA3.SA;EQPA;EQTL PARA;Utilidade Pública;Energia Elétrica;Energia Elétrica
+EQPA7.SA;EQPA;EQTL PARA;Utilidade Pública;Energia Elétrica;Energia Elétrica
+EQPA5.SA;EQPA;EQTL PARA;Utilidade Pública;Energia Elétrica;Energia Elétrica
+EQPA6.SA;EQPA;EQTL PARA;Utilidade Pública;Energia Elétrica;Energia Elétrica
+ATOM3.SA;ATOM;ATOMPAR;Outros;Outros;Outros
+BIOM3.SA;BIOM;BIOMM       ;Saúde;Medicamentos e Outros Produtos;Medicamentos e Outros Produtos
+LAND3.SA;LAND;TERRASANTAPA;Consumo não Cíclico;Agropecuária;Agricultura
+DESK3.SA;DESK;DESKTOP;Comunicações;Telecomunicações;Telecomunicações
+HOOT4.SA;HOOT;HOTEIS OTHON;Consumo Cíclico;Hoteis e Restaurantes;Hotelaria
+DMVF3.SA;DMVF;D1000VFARMA;Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos
+NEXP3.SA;NEXP;NEXPE;Financeiro;Exploração de Imóveis;Intermediação Imobiliária
+ELMD3.SA;ELMD;ELETROMIDIA;Comunicações;Mídia;Publicidade e Propaganda
+CEBR6.SA;CEBR;CEB         ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CEBR3.SA;CEBR;CEB         ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CEBR5.SA;CEBR;CEB         ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CTNM4.SA;CTNM;COTEMINAS   ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+CTNM3.SA;CTNM;COTEMINAS   ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+AVLL3.SA;AVLL;ALPHAVILLE;Consumo Cíclico;Construção Civil;Incorporações
+BAHI3.SA;BAHI;BAHEMA      ;Consumo Cíclico;Diversos;Serviços Educacionais
+REDE3.SA;REDE;REDE ENERGIA;Utilidade Pública;Energia Elétrica;Energia Elétrica
+BOBR4.SA;BOBR;BOMBRIL     ;Consumo não Cíclico;Produtos de Cuidado Pessoal e de Limpeza;Produtos de Limpeza
+SNSY5.SA;SNSY;SANSUY      ;Materiais Básicos;Materiais Diversos;Materiais Diversos
+SNSY3.SA;SNSY;SANSUY      ;Materiais Básicos;Materiais Diversos;Materiais Diversos
+SNSY6.SA;SNSY;SANSUY      ;Materiais Básicos;Materiais Diversos;Materiais Diversos
+VSTE3.SA;VSTE;VESTE;Consumo Cíclico;Comércio Varejista;Tecidos, Vestuário e Calçados
+EALT4.SA;EALT;ACO ALTONA  ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+EALT3.SA;EALT;ACO ALTONA  ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+CGRA3.SA;CGRA;GRAZZIOTIN  ;Consumo Cíclico;Comércio Varejista;Tecidos, Vestuário e Calçados
+CGRA4.SA;CGRA;GRAZZIOTIN  ;Consumo Cíclico;Comércio Varejista;Tecidos, Vestuário e Calçados
+COCE5.SA;COCE;COELCE      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+COCE3.SA;COCE;COELCE      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+COCE6.SA;COCE;COELCE      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+MTSA4.SA;MTSA;METISA      ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Construção e Agrícolas
+MTSA3.SA;MTSA;METISA      ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Construção e Agrícolas
+WLMM4.SA;WLMM;WLM IND COM ;Bens Industriais;Comércio;Material de Transporte
+WLMM3.SA;WLMM;WLM IND COM ;Bens Industriais;Comércio;Material de Transporte
+EPAR3.SA;EPAR;EMBPAR S/A;Bens Industriais;Comércio;Material de Transporte
+RDNI3.SA;RDNI;RNI;Consumo Cíclico;Construção Civil;Incorporações
+CEDO4.SA;CEDO;CEDRO       ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+CEDO3.SA;CEDO;CEDRO       ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+BPAC3.SA;BPAC;BTGP BANCO;Financeiro;Intermediários Financeiros;Bancos
+BPAC5.SA;BPAC;BTGP BANCO;Financeiro;Intermediários Financeiros;Bancos
+APER3.SA;APER;ALPER S.A.;Financeiro;Previdência e Seguros;Corretoras de Seguros e Resseguros
+RSUL4.SA;RSUL;RIOSULENSE  ;Bens Industriais;Material de Transporte;Material Rodoviário
+PTNT4.SA;PTNT;PETTENATI   ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+PTNT3.SA;PTNT;PETTENATI   ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+GEPA3.SA;GEPA;GER PARANAP ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+GEPA4.SA;GEPA;GER PARANAP ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CLSC4.SA;CLSC;CELESC      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CLSC3.SA;CLSC;CELESC      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+DOHL4.SA;DOHL;DOHLER      ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+DOHL3.SA;DOHL;DOHLER      ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+EMAE4.SA;EMAE;EMAE        ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+EMAE3.SA;EMAE;EMAE        ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+MNPR3.SA;MNPR;MINUPAR     ;Consumo não Cíclico;Alimentos Processados;Carnes e Derivados
+CRPG5.SA;CRPG;CRISTAL;Materiais Básicos;Químicos;Químicos Diversos
+CRPG6.SA;CRPG;CRISTAL;Materiais Básicos;Químicos;Químicos Diversos
+CRPG3.SA;CRPG;CRISTAL;Materiais Básicos;Químicos;Químicos Diversos
+ENMT3.SA;ENMT;ENERGISA MT;Utilidade Pública;Energia Elétrica;Energia Elétrica
+ENMT4.SA;ENMT;ENERGISA MT;Utilidade Pública;Energia Elétrica;Energia Elétrica
+BAZA3.SA;BAZA;AMAZONIA    ;Financeiro;Intermediários Financeiros;Bancos
+FRIO3.SA;FRIO;METALFRIO   ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+TELB4.SA;TELB;TELEBRAS    ;Comunicações;Telecomunicações;Telecomunicações
+TELB3.SA;TELB;TELEBRAS    ;Comunicações;Telecomunicações;Telecomunicações
+BMEB4.SA;BMEB;MERC BRASIL ;Financeiro;Intermediários Financeiros;Bancos
+BMEB3.SA;BMEB;MERC BRASIL ;Financeiro;Intermediários Financeiros;Bancos
+BRIV4.SA;BRIV;ALFA INVEST ;Financeiro;Intermediários Financeiros;Bancos
+BRIV3.SA;BRIV;ALFA INVEST ;Financeiro;Intermediários Financeiros;Bancos
+MWET4.SA;MWET;WETZEL S/A  ;Bens Industriais;Material de Transporte;Material Rodoviário
+MWET3.SA;MWET;WETZEL S/A  ;Bens Industriais;Material de Transporte;Material Rodoviário
+OFSA3.SA;OFSA;OUROFINO S/A;Saúde;Medicamentos e Outros Produtos;Medicamentos e Outros Produtos
+PLAS3.SA;PLAS;PLASCAR PART;Consumo Cíclico;Automóveis e Motocicletas;Automóveis e Motocicletas
+TEKA4.SA;TEKA;TEKA        ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+TEKA3.SA;TEKA;TEKA        ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+NORD3.SA;NORD;NORDON MET  ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+SCAR3.SA;SCAR;SAO CARLOS  ;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+MGEL4.SA;MGEL;MANGELS INDL;Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
+MGEL3.SA;MGEL;MANGELS INDL;Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
+CGAS5.SA;CGAS;COMGAS      ;Utilidade Pública;Gás;Gás
+CGAS3.SA;CGAS;COMGAS      ;Utilidade Pública;Gás;Gás
+BAUH4.SA;BAUH;EXCELSIOR   ;Consumo não Cíclico;Alimentos Processados;Carnes e Derivados
+WHRL4.SA;WHRL;WHIRLPOOL   ;Consumo Cíclico;Utilidades Domésticas;Eletrodomésticos
+WHRL3.SA;WHRL;WHIRLPOOL   ;Consumo Cíclico;Utilidades Domésticas;Eletrodomésticos
+BGIP3.SA;BGIP;BANESE      ;Financeiro;Intermediários Financeiros;Bancos
+BGIP4.SA;BGIP;BANESE      ;Financeiro;Intermediários Financeiros;Bancos
+BSLI4.SA;BSLI;BRB BANCO   ;Financeiro;Intermediários Financeiros;Bancos
+BSLI3.SA;BSLI;BRB BANCO   ;Financeiro;Intermediários Financeiros;Bancos
+MERC4.SA;MERC;MERC FINANC ;Financeiro;Intermediários Financeiros;Soc. Crédito e Financiamento
+MERC3.SA;MERC;MERC FINANC ;Financeiro;Intermediários Financeiros;Soc. Crédito e Financiamento
+CALI3.SA;CALI;CONST A LIND;Consumo Cíclico;Construção Civil;Incorporações
+CALI4.SA;CALI;CONST A LIND;Consumo Cíclico;Construção Civil;Incorporações
+CEEB3.SA;CEEB;COELBA      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CEEB5.SA;CEEB;COELBA      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CEED3.SA;CEED;CEEE-D      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CEED4.SA;CEED;CEEE-D      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+GSHP3.SA;GSHP;GENERALSHOPP;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+ESTR4.SA;ESTR;ESTRELA     ;Consumo Cíclico;Viagens e Lazer;Brinquedos e Jogos
+ESTR3.SA;ESTR;ESTRELA     ;Consumo Cíclico;Viagens e Lazer;Brinquedos e Jogos
+DTCY3.SA;DTCY;DTCOM-DIRECT;Bens Industriais;Serviços Diversos;Serviços Diversos
+MNDL3.SA;MNDL;MUNDIAL     ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Acessórios
+CSRN3.SA;CSRN;COSERN      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CSRN6.SA;CSRN;COSERN      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CSRN5.SA;CSRN;COSERN      ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+CRIV3.SA;CRIV;ALFA FINANC ;Financeiro;Intermediários Financeiros;Soc. Crédito e Financiamento
+CRIV4.SA;CRIV;ALFA FINANC ;Financeiro;Intermediários Financeiros;Soc. Crédito e Financiamento
+CEGR3.SA;CEGR;CEG         ;Utilidade Pública;Gás;Gás
+TKNO4.SA;TKNO;TEKNO       ;Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
+TKNO3.SA;TKNO;TEKNO       ;Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
+EKTR4.SA;EKTR;ELEKTRO     ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+EKTR3.SA;EKTR;ELEKTRO     ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+BMIN3.SA;BMIN;MERC INVEST ;Financeiro;Intermediários Financeiros;Bancos
+BMIN4.SA;BMIN;MERC INVEST ;Financeiro;Intermediários Financeiros;Bancos
+BALM4.SA;BALM;BAUMER      ;Saúde;Equipamentos;Equipamentos
+BALM3.SA;BALM;BAUMER      ;Saúde;Equipamentos;Equipamentos
+AFLT3.SA;AFLT;AFLUENTE T  ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+BMKS3.SA;BMKS;BIC MONARK  ;Consumo Cíclico;Viagens e Lazer;Bicicletas
+JOPA3.SA;JOPA;JOSAPAR     ;Consumo não Cíclico;Alimentos Processados;Alimentos Diversos
+JOPA4.SA;JOPA;JOSAPAR     ;Consumo não Cíclico;Alimentos Processados;Alimentos Diversos
+LUXM4.SA;LUXM;TREVISA     ;Bens Industriais;Transporte;Transporte Hidroviário
+LUXM3.SA;LUXM;TREVISA     ;Bens Industriais;Transporte;Transporte Hidroviário
+HETA4.SA;HETA;HERCULES    ;Consumo Cíclico;Utilidades Domésticas;Utensílios Domésticos
+HETA3.SA;HETA;HERCULES    ;Consumo Cíclico;Utilidades Domésticas;Utensílios Domésticos
+MOAR3.SA;MOAR;MONT ARANHA ;Financeiro;Holdings Diversificadas;Holdings Diversificadas
+BNBR3.SA;BNBR;NORD BRASIL ;Financeiro;Intermediários Financeiros;Bancos
+PATI3.SA;PATI;PANATLANTICA;Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
+PATI4.SA;PATI;PANATLANTICA;Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aço
+HBTS5.SA;HBTS;HABITASUL   ;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+BRGE8.SA;BRGE;ALFA CONSORC;Financeiro;Previdência e Seguros;Seguradoras
+BRGE3.SA;BRGE;ALFA CONSORC;Financeiro;Previdência e Seguros;Seguradoras
+BRGE11.SA;BRGE;ALFA CONSORC;Financeiro;Previdência e Seguros;Seguradoras
+BRGE6.SA;BRGE;ALFA CONSORC;Financeiro;Previdência e Seguros;Seguradoras
+BRGE7.SA;BRGE;ALFA CONSORC;Financeiro;Previdência e Seguros;Seguradoras
+BRGE5.SA;BRGE;ALFA CONSORC;Financeiro;Previdência e Seguros;Seguradoras
+BDLL4.SA;BDLL;BARDELLA    ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+BDLL3.SA;BDLL;BARDELLA    ;Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais
+CTKA4.SA;CTKA;KARSTEN     ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+CTKA3.SA;CTKA;KARSTEN     ;Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos
+LIPR3.SA;LIPR;ELETROPAR   ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+DMFN3.SA;DMFN;DMFINANCEIRA;Financeiro;Intermediários Financeiros;Soc. Crédito e Financiamento
+CSAB4.SA;CSAB;SEG AL BAHIA;Financeiro;Previdência e Seguros;Seguradoras
+CSAB3.SA;CSAB;SEG AL BAHIA;Financeiro;Previdência e Seguros;Seguradoras
+CBEE3.SA;CBEE;AMPLA ENERG ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+PEAB3.SA;PEAB;PAR AL BAHIA;Financeiro;Holdings Diversificadas;Holdings Diversificadas
+PEAB4.SA;PEAB;PAR AL BAHIA;Financeiro;Holdings Diversificadas;Holdings Diversificadas
+MAPT3.SA;MAPT;CEMEPE      ;Outros;Outros;Outros
+MAPT4.SA;MAPT;CEMEPE      ;Outros;Outros;Outros
+SOND5.SA;SOND;SONDOTECNICA;Bens Industriais;Construção e Engenharia;Engenharia Consultiva
+SOND6.SA;SOND;SONDOTECNICA;Bens Industriais;Construção e Engenharia;Engenharia Consultiva
+SOND3.SA;SOND;SONDOTECNICA;Bens Industriais;Construção e Engenharia;Engenharia Consultiva
+RPAD5.SA;RPAD;ALFA HOLDING;Financeiro;Intermediários Financeiros;Bancos
+RPAD6.SA;RPAD;ALFA HOLDING;Financeiro;Intermediários Financeiros;Bancos
+RPAD3.SA;RPAD;ALFA HOLDING;Financeiro;Intermediários Financeiros;Bancos
+AHEB3.SA;AHEB;SPTURIS     ;Consumo Cíclico;Viagens e Lazer;Produção de Eventos e Shows
+AHEB6.SA;AHEB;SPTURIS     ;Consumo Cíclico;Viagens e Lazer;Produção de Eventos e Shows
+AHEB5.SA;AHEB;SPTURIS     ;Consumo Cíclico;Viagens e Lazer;Produção de Eventos e Shows
+MSPA4.SA;MSPA;MELHOR SP   ;Materiais Básicos;Madeira e Papel;Papel e Celulose
+MSPA3.SA;MSPA;MELHOR SP   ;Materiais Básicos;Madeira e Papel;Papel e Celulose
+ODER4.SA;ODER;ODERICH     ;Consumo não Cíclico;Alimentos Processados;Alimentos Diversos
+CASN3.SA;CASN;CASAN       ;Utilidade Pública;Água e Saneamento;Água e Saneamento
+CASN4.SA;CASN;CASAN       ;Utilidade Pública;Água e Saneamento;Água e Saneamento
+GPAR3.SA;GPAR;CELGPAR     ;Utilidade Pública;Energia Elétrica;Energia Elétrica
+TCNO4.SA;TCNO;TECNOSOLO   ;Bens Industriais;Construção e Engenharia;Engenharia Consultiva
+TCNO3.SA;TCNO;TECNOSOLO   ;Bens Industriais;Construção e Engenharia;Engenharia Consultiva
+FIGE3.SA;FIGE;INVEST BEMGE;Outros;Outros;Outros
+FIGE4.SA;FIGE;INVEST BEMGE;Outros;Outros;Outros
+CORR4.SA;CORR;COR RIBEIRO ;Financeiro;Exploração de Imóveis;Exploração de Imóveis
+BPAR3.SA;BPAR;BANPARA     ;Financeiro;Intermediários Financeiros;Bancos
+APTI4.SA;APTI;ALIPERTI    ;Consumo não Cíclico;Agropecuária;Agricultura
+VSPT3.SA;VSPT;FER C ATLANT;Bens Industriais;Transporte;Transporte Ferroviário
+MMAQ4.SA;MMAQ;MINASMAQUINA;Bens Industriais;Comércio;Material de Transporte
+AGRI11.SA;AGRI;BB ETF IAGRO;;;ETF
+BBOV11.SA;BBOV;BB ETF IBOV;;;ETF
+BBOI11.SA;BBOI;BB ETF BOI G;;;ETF
+CORN11.SA;CORN;BB ETF MILHO;;;ETF
+BBSD11.SA;BBSD;BB ETF SP DV;;;ETF
+BMMT11.SA;BMMT;B INDEX MOME;;;ETF
+BREW11.SA;BREW;B INDEX BREW;;;ETF
+BDEF11.SA;BDEF;B INDEX DEFE;;;ETF
+IBOB11.SA;IBOB;PACTUAL IBOV;;;ETF
+ESGB11.SA;ESGB;ETF ESG BTG;;;ETF
+SPXB11.SA;SPXB;BTG S&P 500;;;ETF
+GENB11.SA;GENB;ETF BTG GENB;;;ETF
+SMAB11.SA;SMAB;BTG SMLL CAP;;;ETF
+CMDB11.SA;CMDB;BTG COMMODIT;;;ETF
+XBOV11.SA;XBOV;CAIXAETFXBOV;;;ETF
+CRPT11.SA;CRPT;CRIPTO20 EMP;;;ETF
+BOVB11.SA;BOVB;ETF BRA IBOV;;;ETF
+TRIG11.SA;TRIG;TRG SMIC CAP;;;ETF
+META11.SA;META;META HASH;;;ETF
+DEFI11.SA;DEFI;DEFI HASH;;;ETF
+BITH11.SA;BITH;BITCOIN HASH;;;ETF
+HASH11.SA;HASH;HASHDEX NCI;;;ETF
+ETHE11.SA;ETHE;ETHER HASH;;;ETF
+WEB311.SA;WEB3;SMART HASH;;;ETF
+TECB11.SA;TECB;TECH BRASIL;;;ETF
+GURU11.SA;GURU;ETF GURU;;;ETF
+PEVC11.SA;PEVC;INVESTO PEVC;;;ETF
+5GTK11.SA;5GTK;INVESTO 5GTK;;;ETF
+JOGO11.SA;JOGO;INVESTO JOGO;;;ETF
+FOOD11.SA;FOOD;INVESTO FOOD;;;ETF
+ALUG11.SA;ALUG;INVESTO ALUG;;;ETF
+USTK11.SA;USTK;INVESTO USTK;;;ETF
+SVAL11.SA;SVAL;INVESTO SVAL;;;ETF
+WRLD11.SA;WRLD;INVESTO WRLD;;;ETF
+BDOM11.SA;BDOM;INVESTO BDOM;;;ETF
+BXPO11.SA;BXPO;INVESTO BXPO;;;ETF
+SCVB11.SA;SCVB;INVESTO SCVB;;;ETF
+BTEK11.SA;BTEK;INVESTO BTEK;;;ETF
+BLOK11.SA;BLOK;INVESTO BLOK;;;ETF
+NFTS11.SA;NFTS;INVESTO NFTS;;;ETF
+SMAL11.SA;SMAL;ISHARES SMAL;;;ETF
+BOVA11.SA;BOVA;ISHARES BOVA;;;ETF
+BRAX11.SA;BRAX;ISHARES BRAX;;;ETF
+ECOO11.SA;ECOO;ISHARES ECOO;;;ETF
+IVVB11.SA;IVVB;ISHARE SP500;;;ETF
+BITI11.SA;BITI;ETF GALAXY B;;;ETF
+BOVV11.SA;BOVV;IT NOW IBOV;;;ETF
+DIVO11.SA;DIVO;IT NOW IDIV;;;ETF
+FIND11.SA;FIND;IT NOW IFNC;;;ETF
+GOVE11.SA;GOVE;IT NOW IGCT;;;ETF
+MATB11.SA;MATB;IT NOW IMAT;;;ETF
+ISUS11.SA;ISUS;IT NOW ISE;;;ETF
+HTEK11.SA;HTEK;IT NOW HCARE;;;ETF
+DNAI11.SA;DNAI;IT NOW DNA;;;ETF
+MILL11.SA;MILL;IT NOW MILL;;;ETF
+TECK11.SA;TECK;IT NOW TECK;;;ETF
+PIBB11.SA;PIBB;IT NOW PIBB;;;ETF
+REVE11.SA;REVE;IT NOW GREEN;;;ETF
+YDRO11.SA;YDRO;IT NOW HYDRO;;;ETF
+SHOT11.SA;SHOT;IT NOW SHOT;;;ETF
+SPXI11.SA;SPXI;IT NOW SPXI;;;ETF
+SMAC11.SA;SMAC;IT NOW SMALL;;;ETF
+BCIC11.SA;BCIC;B INDEX CICL;;;ETF
+QDFI11.SA;QDFI;QR DEFI;;;ETF
+QBTC11.SA;QBTC;QR BITCOIN;;;ETF
+QETH11.SA;QETH;QR ETHER;;;ETF
+ELAS11.SA;ELAS;SAFRAETFELAS;;;ETF
+BOVS11.SA;BOVS;SAFRAETFIBOV;;;ETF
+USAL11.SA;USAL;TREND US LRG;;;ETF
+URET11.SA;URET;TREND U REIT;;;ETF
+BOVX11.SA;BOVX;TREND IBOVX;;;ETF
+XFIX11.SA;XFIX;TREND IFIX-L;;;ETF
+GOLD11.SA;GOLD;TREND OURO;;;ETF
+ACWI11.SA;ACWI;TREND ACWI;;;ETF
+ASIA11.SA;ASIA;TREND ASIA;;;ETF
+XINA11.SA;XINA;TREND CHINA;;;ETF
+ESGD11.SA;ESGD;TREND ESG D;;;ETF
+ESGE11.SA;ESGE;TREND ESG E;;;ETF
+EURP11.SA;EURP;TREND EUROPA;;;ETF
+UTEC11.SA;UTEC;TREND US TEC;;;ETF
+ESGU11.SA;ESGU;TREND ESG US;;;ETF
+NASD11.SA;NASD;TREND NASDAQ;;;ETF
+XMAL11.SA;XMAL;TREND SMALL;;;ETF
+BTC-USD;BITCOIN DOL;;;;CRIPTO
+ETH-USD;ETHERIUM DOL;;;;
